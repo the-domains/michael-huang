@@ -1,0 +1,14 @@
+layout_spectrum: 0.6148936
+color:
+  saturation: 0.6744681
+  lightness: 1
+  brandStrength: 1
+  brandColors:
+    - '#161516'
+    - '#DFE2F1'
+    - '#434238'
+    - '#9A9988'
+    - '#E05D6E'
+  rhythmicContrast: 0.6425704
+typography_spectrum: 0.5297872
+name: Michael Huang
